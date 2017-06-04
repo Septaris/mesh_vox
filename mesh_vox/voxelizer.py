@@ -2,9 +2,9 @@ import argparse
 import os.path
 import numpy
 
-import .mesh_slice
-import .stl_reader
-import .perimeter
+from . import mesh_slice
+from . import stl_reader
+from . import perimeter
 from .util import padVoxelArray
 
 
