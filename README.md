@@ -1,16 +1,15 @@
-# stl-to-voxel
-Turn STL files into voxels, images, and videos
-### Main Features
-* Convert stl files into a voxel representation
-* Output to (a series of) .pngs, .xyz, .svx
-* Command line interface
+# Mesh Vox
+The mesh voxelizer (Mesh Vox) is a fork of [stl-to-voxel](https://github.com/rcpedersen/stl-to-voxel/). It turns STL files into voxels array. In particular, this library can be used to create Starmade blueprints from 3D models.
 
-### How to run
+## Installation
+
+Mesh Vox require python 3 and can be installed using pip:
 ```
-git clone https://github.com/rcpedersen/stl-to-voxel.git
-$ cd stl-to-voxel
-$ python3 stltovoxel.py ~/path/to/file.stl ~/path/to/output.png
+pip install git+https://github.com/Septaris/mesh_vox.git
 ```
-### Example: 
-![alt text](https://github.com/rcpedersen/stl-to-voxel/raw/master/stanford_bunny.png "STL version of the stanford bunny")
-![alt text](https://github.com/rcpedersen/stl-to-voxel/raw/master/stanford_bunny.gif "voxel version of the stanford bunny")
+
+## Usage
+
+```
+
+```
