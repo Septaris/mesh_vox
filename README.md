@@ -1,5 +1,5 @@
 # Mesh Vox
-The mesh voxelizer (Mesh Vox) is a fork of [stl-to-voxel](https://github.com/rcpedersen/stl-to-voxel/). It turns STL files into voxels array. In particular, this library can be used to create Starmade blueprints from 3D models.
+The mesh voxelizer (Mesh Vox) is a fork of [stl-to-voxel](https://github.com/rcpedersen/stl-to-voxel/). It turns STL files into voxels array. In particular, this library can be used to create [Starmade](https://starmadedock.net/) blueprints from 3D models.
 
 ## Installation
 
